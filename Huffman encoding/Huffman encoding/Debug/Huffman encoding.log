@@ -1,0 +1,6 @@
+﻿  Huffman.cpp
+  Main.cpp
+c:\users\andre\source\repos\huffman encoding\huffman encoding\main.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tree.cpp
+  Generating Code...
+  Huffman encoding.vcxproj -> C:\Users\Andre\source\repos\Huffman encoding\Debug\Huffman encoding.exe
